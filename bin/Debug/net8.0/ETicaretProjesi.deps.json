@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ETicaretProjesi/1.0.0": {
+        "runtime": {
+          "ETicaretProjesi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ETicaretProjesi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
